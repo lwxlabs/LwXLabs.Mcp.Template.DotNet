@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "LwXLabs",
+  "classifications": [
+    "MCP",
+    "Web",
+    "ASP.NET Core",
+    "C#"
+  ],
+  "identity": "LwXLabs.Mcp.Template.DotNet",
+  "name": ".NET MCP Server with MVC",
+  "shortName": "lwx-mcp-dotnet",
+  "sourceName": "LwXLabs.Mcp.Template.DotNet",
+  "preferNameDirectory": true,
+  "guids": [
+    "B3D38780-5F23-4FD5-9CA2-5A76B3C1AE6E"
+  ],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            "**/bin/**",
+            "**/obj/**",
+            "**/.git/**",
+            "**/.vs/**",
+            "**/.idea/**",
+            "**/artifacts/**",
+            "**/TestResults/**",
+            "**/.template.config/**",
+            "**/*.user",
+            "**/*.log",
+            "**/.env",
+            "**/.env.*",
+            "**/secrets.json",
+            "**/appsettings.Local.json"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "example-mcp": {
+      "command": "C:\\path\\to\\LwXLabs.Mcp.Template.DotNet.exe",
+      "args": []
+    }
+  }
+}

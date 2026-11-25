@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LwXLabs.Mcp.Template.DotNet/LwXLabs.Mcp.Template.DotNet.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LwXLabs.Mcp.Template.DotNet.Tests/LwXLabs.Mcp.Template.DotNet.Tests.csproj" />
+  </Folder>
+</Solution>
